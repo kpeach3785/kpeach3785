@@ -1,12 +1,10 @@
 # Kyle Peach
 
-Army National Guard Officer exploring technology, command line tools, and automation.
-
-Currently building practical diagnostic scripts focused on system health, troubleshooting, and command line workflows.
+Army National Guard Officer building command line diagnostic tools and learning automation.
 
 ## Current Project
 
-Command Line Diagnostics Toolkit  
+Command Line Diagnostics Toolkit (PowerShell)
 https://github.com/kpeach3785/command-line-diagnostics
 
 A growing collection of command line tools used to quickly evaluate system health and identify issues.
