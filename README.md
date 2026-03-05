@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Kyle Peach
 
 Army National Guard Officer exploring technology, command line tools, and automation.
